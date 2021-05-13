@@ -42,7 +42,7 @@ group :development, :test do
   gem 'capybara' #for feature testing
   gem 'launchy' #save_and_open_page
   gem 'simplecov'
-  gem 'shoulda-matchers', '~> 4.0' #for testing AR Associations
+  gem 'shoulda-matchers' #for testing AR Associations
 end
 
 group :development do
