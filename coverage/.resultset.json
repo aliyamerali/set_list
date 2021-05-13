@@ -266,35 +266,8 @@
           1,
           null
         ]
-      },
-      "/Users/aliyamerali/Turing/2Mod/practice/set_list/app/models/song.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/aliyamerali/Turing/2Mod/practice/set_list/app/controllers/songs_controller.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/aliyamerali/Turing/2Mod/practice/set_list/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1620780265
+    "timestamp": 1620865402
   }
 }

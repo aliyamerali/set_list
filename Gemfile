@@ -39,9 +39,10 @@ group :development, :test do
   # gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'pry'
   gem 'rspec-rails'
-  gem 'capybara'
+  gem 'capybara' #for feature testing
   gem 'launchy' #save_and_open_page
   gem 'simplecov'
+  gem 'shoulda-matchers', '~> 4.0' #for testing AR Associations
 end
 
 group :development do
