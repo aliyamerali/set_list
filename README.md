@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a tutorial based project. Videos include: 
+* [Songs Index](https://www.youtube.com/watch?v=At4fD_zkHJU)
+* [Song Show](https://www.youtube.com/watch?v=oZGZEJWt8qQ)
+* [Active Record Association](https://www.youtube.com/watch?v=oOFUnTPC_jU)
+* [Forms](https://www.youtube.com/watch?v=VNHriUP7zKE&list=PL1Y67f0xPzdMpqo5GG-P8oVd-OvkNMSAN&index=5)
