@@ -5,7 +5,6 @@ RSpec.describe 'destroy an artist' do
     artist = Artist.create!(name: 'Prince')
 
     visit '/artists'
-    # save_and_open_page
     click_button 'Delete'
 
     expect(current_path).to eq('/artists')

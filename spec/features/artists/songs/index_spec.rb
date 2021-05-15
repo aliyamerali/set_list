@@ -16,7 +16,6 @@ RSpec.describe 'Artists songs index' do
 
   it 'links to each songs show page' do
     visit "/artists/#{@prince.id}/songs"
-    # save_and_open_page
     click_on @purple.title
     expect(current_path).to eq("/songs/#{@purple.id}")
   end
